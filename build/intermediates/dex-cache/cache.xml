@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\d872c2f286ff1543ab6be7edda22b52d2f8371c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_7918d2cf47f2395952ed40a1741682b660f32f8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\1736cee7b82d0674194167a76b4dbc3861f015fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_8431d3ce3813345f6afbc925e09122d2db5ae3fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_6b47ac441707e5e460faf7b59f6cef52af139aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\484f7087b1ff0cb57fd41531de14126e4a0da8f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_8060f501efe5f54b5b5783ec55602e555c6adbb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\80318ae792b56a0a6acd7f39cfb4924ed12c1bc1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_f60423a7dd3d75b1713a5c02d82d6bb83c61b0a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\f3d3941f295d536bd08164fc581001ddffd8f0eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_cc2844069cf92f00dc8cff622412605ee33854f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\a8436c476ecc953d1ce34bdcecb1397df24e4b1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_1281e5926ccd93ce8270a1544847226718bd2032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\ae8227897a275a73a35f9259d02293307607149f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_2b69e589f6f14fb92a218c1c42345011fbd2d0ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\6a95bfc1066e78b9c1b1ccdb2e756d3a48af367b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_62081fbbb3e7e13888287d52b23a99c2d1c08d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\75c5068dbaab2f37d9833f304945ee5926344f8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_a1b549353099294ddd69cfb73700bf7442a6623b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\6a95bfc1066e78b9c1b1ccdb2e756d3a48af367b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_62081fbbb3e7e13888287d52b23a99c2d1c08d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_343aa2df71dbd078bb1565281267311f1012610c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\a7d6c001724c6a9f3908dac1b2bfaa8ee4f78694\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_d31ac5138ee37153c8166a84e5ab74085a00ea8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\a8436c476ecc953d1ce34bdcecb1397df24e4b1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_1281e5926ccd93ce8270a1544847226718bd2032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\f3d3941f295d536bd08164fc581001ddffd8f0eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_cc2844069cf92f00dc8cff622412605ee33854f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\d872c2f286ff1543ab6be7edda22b52d2f8371c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_7918d2cf47f2395952ed40a1741682b660f32f8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\484f7087b1ff0cb57fd41531de14126e4a0da8f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_8060f501efe5f54b5b5783ec55602e555c6adbb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_6b47ac441707e5e460faf7b59f6cef52af139aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\ae8227897a275a73a35f9259d02293307607149f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_2b69e589f6f14fb92a218c1c42345011fbd2d0ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_343aa2df71dbd078bb1565281267311f1012610c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\1736cee7b82d0674194167a76b4dbc3861f015fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_8431d3ce3813345f6afbc925e09122d2db5ae3fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\a7d6c001724c6a9f3908dac1b2bfaa8ee4f78694\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_d31ac5138ee37153c8166a84e5ab74085a00ea8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\80318ae792b56a0a6acd7f39cfb4924ed12c1bc1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_f60423a7dd3d75b1713a5c02d82d6bb83c61b0a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yotsu\.android\build-cache\75c5068dbaab2f37d9833f304945ee5926344f8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\yotsu\AndroidStudioProjects\VoiceRecord\app\build\intermediates\pre-dexed\debug\classes_a1b549353099294ddd69cfb73700bf7442a6623b.jar" />
+    </item>
+
+</items>

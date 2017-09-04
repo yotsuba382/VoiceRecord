@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\yotsu\\AndroidStudioProjects\\VoiceRecord\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\yotsu\\.android\\build-cache\\1736cee7b82d0674194167a76b4dbc3861f015fc\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotsu\\AndroidStudioProjects\\VoiceRecord\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\yotsu\\.android\\build-cache\\1736cee7b82d0674194167a76b4dbc3861f015fc\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotsu\\AndroidStudioProjects\\VoiceRecord\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\yotsu\\.android\\build-cache\\1736cee7b82d0674194167a76b4dbc3861f015fc\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\yotsu\\AndroidStudioProjects\\VoiceRecord\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\yotsu\\.android\\build-cache\\1736cee7b82d0674194167a76b4dbc3861f015fc\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

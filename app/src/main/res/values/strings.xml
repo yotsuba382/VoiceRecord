@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VoiceRecord</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="Cal">Cal</string>
+    <string name="MFCC">MFCC</string>
+</resources>
